@@ -1,0 +1,30 @@
+命令稿啟動於 2016年03月14日 下午 02:40:04
+]0;~/lab1
+[32mAmyˊˇˋ@DESKTOP-LPSPUCO [33m~/lab1[0m
+$ g++ h[Klab1-B.cpp
+]0;~/lab1
+[32mAmyˊˇˋ@DESKTOP-LPSPUCO [33m~/lab1[0m
+$ ./a.exe
+Please input an integer n : 22
+n = 22
+n = 11
+n = 34
+n = 17
+n = 52
+n = 26
+n = 13
+n = 40
+n = 20
+n = 10
+n = 5
+n = 16
+n = 8
+n = 4
+n = 2
+n = 1
+]0;~/lab1
+[32mAmyˊˇˋ@DESKTOP-LPSPUCO [33m~/lab1[0m
+$ exit
+
+命令稿已於 2016年03月14日 下午 02:40:50
+ 完成
