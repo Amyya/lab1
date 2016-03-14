@@ -1,1 +1,0 @@
-How to compile:g++ -o a lad1-B.cpp
