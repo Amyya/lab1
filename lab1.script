@@ -1,0 +1,13 @@
+Script started on 2016年03月14日 (週一) 11時43分57秒
+]0;H34046204@2015cpp: ~H34046204@2015cpp:~$ whoami;pwd pwd[C[C[C
+H34046204
+/home/H34046204
+]0;H34046204@2015cpp: ~H34046204@2015cpp:~$ git config -1[Kl
+]0;H34046204@2015cpp: ~H34046204@2015cpp:~$ git clone http://github.com/Amyya/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;H34046204@2015cpp: ~H34046204@2015cpp:~$ exit
+
+Script done on 2016年03月14日 (週一) 11時45分48秒
